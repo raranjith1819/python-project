@@ -1,0 +1,13 @@
+beautifulsoup4
+fastapi
+furl
+lxml
+pydantic
+Requests
+SQLAlchemy
+uvicorn
+asyncio
+playwright
+urlexpander
+regex
+scikit-learn
